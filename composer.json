@@ -1,0 +1,13 @@
+{
+    "name": "garrett/pint-config",
+    "description": "A custom Pint configuration for Laravel projects.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Garrett",
+            "email": "garrettshevach@gmail.com"
+        }
+    ],
+    "require": {}
+}
